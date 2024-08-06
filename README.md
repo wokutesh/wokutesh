@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wokutesh<h1 align="center">Hi 👋, I'm Wokuma</h1>
+<h1 align="center">Hi 👋, I'm Wokuma</h1>
 <h3 align="center">A Web developer from Ethiopia</h3>
 <img align="right" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
