@@ -17,9 +17,11 @@
 - 📫 How to reach me **wokumateshome13@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GJzNvhm3qFdCvKDqqq5PLV0PngKrocg4/view?usp=drive_link](https://drive.google.com/file/d/1GJzNvhm3qFdCvKDqqq5PLV0PngKrocg4/view?usp=drive_link)
-[![trophy](https://github-profile-trophy.vercel.app/?username=wokutesh)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - ⚡ Fun fact **I am Joker**
+- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=wokutesh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
