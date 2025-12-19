@@ -4,22 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wokutesh&label=Profile%20views&color=0e75b6&style=flat" alt="wokutesh" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently participating actively on Zindi competition.
 
-- 🌱 I’m currently learning **gsap,django**
+- 🌱 I’m actively expanding my skills on python which is base for my career.
 
-- 👯 I’m looking to collaborate on **Evaluation Preformance of Employees**
+- 👯 I’m looking to collaborate on developing the system which solve the problem in our country.
 
-- 🤝 I’m looking for help with **Hospital Management System**
-
-- 💬 Ask me about **react,js**
+- 💬 Ask me about **Python Libraries(Panda,Matplotlib,Seaborn,Numpy),Scikit-learn,SQL,Fastapi(for deployment),PowerBI(for Business Data Analysis)**.
 
 - 📫 How to reach me **wokumateshome13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GJzNvhm3qFdCvKDqqq5PLV0PngKrocg4/view?usp=drive_link](https://drive.google.com/file/d/1GJzNvhm3qFdCvKDqqq5PLV0PngKrocg4/view?usp=drive_link)
-
-
-- ⚡ Fun fact **I am Joker**
+- ⚡ Fun fact: I have a mild obsession with cleaning and structuring messy datasets.
 - 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wokutesh)](https://github.com/ryo-ma/github-profile-trophy)
 
