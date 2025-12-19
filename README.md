@@ -16,11 +16,21 @@
 
 - ⚡ Fun fact: I have a mild obsession with cleaning and structuring messy datasets.
 - 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wokutesh)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wokutesh&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//wokuma-teshome-a35728252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/wokuma-teshome-a35728252/" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://instagram.com/wako1.9" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" height="30" /></a>
+</p>
+
+<p align="left">
+<a href="https://t.me/nsacedamy" target="_blank"><img align="center" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
