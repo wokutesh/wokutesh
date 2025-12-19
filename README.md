@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact: I have a mild obsession with cleaning and structuring messy datasets.
 - 
-<p align="center">
-    [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wokutesh&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wokutesh&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
